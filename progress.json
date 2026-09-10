@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:36:01.557Z",
+  "generated_at": "2026-09-17T16:36:03.549Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,56 @@
       "last_pushed_at": "2026-09-09T18:11:01.215Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-09-10T14:46:12.224Z",
+      "last_pushed_at": "2026-09-10T14:46:12.224Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-09-10T15:57:44.596Z",
+      "last_pushed_at": "2026-09-10T15:57:44.596Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-09-10T19:02:19.362Z",
+      "last_pushed_at": "2026-09-10T19:02:19.362Z",
+      "language": "python",
+      "lines": 33
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-09-10T19:42:49.767Z",
+      "last_pushed_at": "2026-09-10T19:42:49.767Z"
     }
   }
 }

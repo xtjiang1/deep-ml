@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 27 problems · 0 labs · 1 math
+**29** solved · 28 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-10 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-09-23 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-10 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-15 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ## Math
 

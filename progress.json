@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:13:19.954Z",
+  "generated_at": "2026-10-16T20:06:06.190Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -412,6 +412,19 @@
       "path": "problems/0031-divide-dataset-based-on-feature-threshold",
       "first_solved_at": "2026-10-16T18:13:19.045Z",
       "last_pushed_at": "2026-10-16T18:13:19.045Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2026-10-16T20:06:05.495Z",
+      "last_pushed_at": "2026-10-16T20:06:05.495Z",
       "language": "python",
       "lines": 17
     }

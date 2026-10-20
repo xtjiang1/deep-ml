@@ -1,7 +1,8 @@
 import math
 
-def softmax(scores: list[float]) -> list[float]:
+def softmax(input: list[float]) -> list[float]:
     result = []
-    for z_i in scores:
-        result.append((math.exp(z_i - max(scores))) / (sum([math.exp(scores[j] - max(scores)) for j in range(len(scores))])))
+    bottom = sum((math.exp(z_j- max(input))) for z_j in input)
+    for z_i in input:
+        result.append((math.exp(z_i - max(input))) / bottom)
     return result

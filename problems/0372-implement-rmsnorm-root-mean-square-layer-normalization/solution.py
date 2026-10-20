@@ -16,6 +16,6 @@ def rmsnorm(x: np.ndarray, g: np.ndarray, eps: float = 1e-5) -> np.ndarray:
     for row in x:
         result = []
         for i, x_i in enumerate(row):
-            result.append(x_i / np.sqrt((1 / len(row)) * np.sum(np.square(row)) + eps) * g[i])
+            result.append(x_i / np.sqrt(np.mean(np.square(row))+ eps) * g[i])
         results.append(result)
     return results
